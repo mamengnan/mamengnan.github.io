@@ -5,7 +5,7 @@ Description
 ------------------
 使用github Page搭建的个人博客，随便写写
 
-### [View Pony Blog &rarr;](https://huangxuan.me) ### 
+### [View Pony Blog &rarr;](https://mamengnan.github.io) ### 
 
 Thanks
 ------------------
